@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The backend is spring boot CRUD in https://github.com/work2win/springboot-art
 
 ## Available Scripts
 
