@@ -7,7 +7,6 @@ class AppService extends React.Component{
 
     getRoom(){
         return axios.get(ROOM_BASE_REST_URL);       
-        
     }
 
 }
